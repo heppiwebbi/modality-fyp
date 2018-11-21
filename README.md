@@ -1,5 +1,6 @@
 # FIT3162FYP
 FIT3162 Final Year Project
+
 Automatic Classification of Medical Modality Images using Local Binary Pattern, Shape Feature with KNN and SVM and Fusion Technique
 
 The program can be executed using command 'python3 filename.py <argv 1>' in the terminal.
